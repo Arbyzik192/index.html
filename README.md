@@ -53,7 +53,7 @@
     <h1>Привет, это мой сайт 😎</h1>
     <p>Создан прямо с телефона и размещён на GitHub Pages!</p>
     <button onclick="alert('Ты нажал на кнопку! 👍')">Нажми меня</button>
-
+<a href=https://github.com/Arbyzik192/index.html/tree/7392a51322f23289c1755e3f7bd30bcf94b3e44e#indexhtlm
     <footer>© 2025 Мой сайт</footer>
 </body>
 </html>
